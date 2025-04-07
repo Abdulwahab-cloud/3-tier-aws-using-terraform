@@ -1,6 +1,6 @@
 # 3-tier-aws-using-terraform
 # Architecture diagram:
-![3app](https://github.com/user-attachments/assets/fa275d3a-3e46-4ab5-b5cf-dbd7b5f61670)
+![#tierterraform](https://github.com/user-attachments/assets/34bf07ec-c867-4cfe-84c0-0d07130a0343)
 # Network setup:
 ![Screenshot (213)](https://github.com/user-attachments/assets/d281d587-5f6f-4d35-94b9-7574332df581)
 # Created instances:
