@@ -1,10 +1,10 @@
-resource "aws_db_instance" "mysql" {
+resource "aws_db_instance" "mysql-instance" {
   allocated_storage    = 10
   storage_type         = "gp2"
   engine               = "mysql"
   engine_version       = "8.0"
   instance_class       = "db.t3.micro"
-  db_name              = "myrdstestmysql"
+  db_name              = "rds-mysql"
   username             = "admin"
   password             = "supersecurepassword"
   parameter_group_name = "default.mysql8.0"
